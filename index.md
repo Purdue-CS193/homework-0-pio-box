@@ -1,11 +1,11 @@
-#Pio's First CS193 Homework
+# Pio's First CS193 Homework
 
-##Favorite Things About CS193
--GPA Booster
--It's sily (in a good way)
--uhhhhhhh uhmmmmm
--One class a week 
--uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+##  Favorite Things About CS193
+- GPA Booster
+- It's sily (in a good way)
+- uhhhhhhh uhmmmmm
+- One class a week 
+- uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 ```markdown
 Syntax highlighted code block
